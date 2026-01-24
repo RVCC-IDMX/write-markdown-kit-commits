@@ -1,0 +1,15 @@
+{
+  "editor.wordWrap": "on",
+  "editor.minimap.enabled": false,
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1000,
+  "[markdown]": {
+    "editor.defaultFormatter": null,
+    "editor.quickSuggestions": {
+      "other": true,
+      "comments": false,
+      "strings": false
+    }
+  },
+  "markdown.preview.breaks": true
+}
