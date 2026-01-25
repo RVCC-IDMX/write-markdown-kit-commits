@@ -60,13 +60,21 @@ Review your SpecStory history (`.specstory/history/`) and document 3 meaningful 
 
 ### Most helpful AI interaction
 
-[Which of your conversations with Copilot helped you the most? Why was it helpful? What made that particular prompt or response useful?]
+[Which of your conversations with Copilot helped you the most? Why was it helpful?]
 
-### What I would do differently
+### Least helpful AI interaction
 
-[Looking back at your conversations, is there anything you would ask differently? Did you discover better ways to phrase your questions as you went along?]
+[Was there an interaction that did not help you, or even confused you? What made it less useful? Did you try rephrasing your question?]
 
-### Context awareness
+### What Markdown concepts did you learn?
+
+[Summarize the Markdown concepts you learned from working with Copilot. Did you learn anything you did not expect?]
+
+### Copilot as a learning tool
+
+[Were you able to use Copilot as a learning tool? What worked well? What would you do differently next time?]
+
+### Context awareness (optional)
 
 [Did you notice how the `copilot-instructions.md` file affected Copilot's responses? How did knowing about this file change how you think about working with AI?]
 
