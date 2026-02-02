@@ -1,57 +1,41 @@
-# About me
+# Kaitlin Taylor
 
-<!--
-INSTRUCTIONS: Complete each section below using Markdown formatting.
-Ask Copilot for help if you're unsure how to format something!
-Delete these instruction comments when you're done.
--->
+## Professional Areas of Expertise
 
-## My name
-
-<!-- Replace this line with your name. Try making it bold! -->
+- UI/UX Design
+- Web Development
+- App Development
 
 ## What I'm studying
-
-<!-- What is your major or area of study? -->
+-I'm learning web development and I.T. 
 
 ## Why I'm taking this course
-
-<!-- Write a sentence or two about why you enrolled in this course. -->
+- JavaScript is essential for web development and IT work.
 
 ## My programming experience
-
-<!--
-Describe your previous programming experience using a list.
-If you have none, that's okay! You can write "No previous experience"
-or list other technical skills you have.
-
-Example format:
-- Skill or experience 1
-- Skill or experience 2
--->
+-I have worked with Swift, Firebase, Python, Java, and Full Stack
+- Web Development platforms over the years.
 
 ## A fun fact about me
+- I like to read 1-3 books per week. 
 
-<!-- Share something interesting about yourself! -->
+## Goals this semester: 
+-Utilize JavaScript in Web Development student projects. 
 
-## My goals for this semester
+[Visit my portfolio](https://www.kaitlintaylorportfolio.com)
 
-<!--
-What do you hope to learn or accomplish?
-Try using a numbered list for your goals:
+```javascript
+function greet(name) {
+  console.log(`Hello, ${name}!`);
+}
+```
+![Markdown Logo](https://markdown-here.com/img/icon256.png)
 
-1. First goal
-2. Second goal
-3. Third goal
--->
+| Header 1 | Header 2 | Header 3 |
+| -------- | -------- | -------- |
+| Cell 1   | Cell 2   | Cell 3   |
+| Cell 4   | Cell 5   | Cell 6   |
 
----
+*italic* An example of italic text *italic*
 
-## Optional: Add more about yourself
-
-Feel free to add any of these using what you learned in `learn-markdown.md`:
-
-- A link to a website you enjoy
-- A favorite quote (use a blockquote!)
-- A table of your favorite things
-- An image (if you know one you'd like to include)
+**bold** An example of bold text **bold**
