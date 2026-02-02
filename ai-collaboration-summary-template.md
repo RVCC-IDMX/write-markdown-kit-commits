@@ -1,6 +1,6 @@
 # AI collaboration summary
 
-**Student name:** [Your name]
+**Student name:** Kaitlin Taylor
 
 **Assignment:** Week 1 - Markdown fundamentals
 
@@ -12,47 +12,54 @@ Review your SpecStory history (`.specstory/history/`) and document 3 meaningful 
 
 **My prompt:**
 
-> [Copy the exact prompt you used]
+> [What are the different header levels in Markdown and when should I use each one?]
 
 **What I learned:**
 
-[1-2 sentences explaining what you learned from this interaction]
+[Best practices:]
+
+[Use H1 for the document title only]
+[Create a logical hierarchy (don't skip levels, e.g., H2 → H4)]
+[H2-H3 are most commonly used for typical documents]
+[Headers create the document outline and improve navigation]
+
 
 **How I applied it:**
 
-[What did you do with this information? How did it help you complete the assignment?]
+[Use proper about me headers]
 
 ---
 
-### Interaction 2: [Brief title]
+### Interaction 2: [How do I create bulleted lists and numbered lists in Markdown?]
 
 **My prompt:**
 
-> [Copy the exact prompt you used]
+> [How do I create bulleted lists and numbered lists in Markdown?]
 
 **What I learned:**
 
-[1-2 sentences explaining what you learned from this interaction]
+[Bulleted (unordered) lists:]
+[Use -, *, or + followed by a space:]
 
 **How I applied it:**
 
-[What did you do with this information?]
+[Created nested lists]
 
 ---
 
-### Interaction 3: [Brief title]
+### Interaction 3: [How do I create a clickable link in Markdown?]
 
 **My prompt:**
 
-> [Copy the exact prompt you used]
+> [How do I create a clickable link in Markdown?]
 
 **What I learned:**
 
-[1-2 sentences explaining what you learned from this interaction]
+[Basic link syntax: [Link text](URL)]
 
 **How I applied it:**
 
-[What did you do with this information?]
+[Linking to my portfolio site]
 
 ---
 
@@ -60,19 +67,19 @@ Review your SpecStory history (`.specstory/history/`) and document 3 meaningful 
 
 ### Most helpful AI interaction
 
-[Which of your conversations with Copilot helped you the most? Why was it helpful?]
+[All of the co-pilot conversations are helpful]
 
 ### Least helpful AI interaction
 
-[Was there an interaction that did not help you, or even confused you? What made it less useful? Did you try rephrasing your question?]
+[All of the conversations were helpful?]
 
 ### What Markdown concepts did you learn?
 
-[Summarize the Markdown concepts you learned from working with Copilot. Did you learn anything you did not expect?]
+[Proper formatting and indentation.]
 
 ### Copilot as a learning tool
 
-[Were you able to use Copilot as a learning tool? What worked well? What would you do differently next time?]
+[Yes, Copilot was a positive learning tool.]
 
 ### Context awareness (optional)
 
@@ -82,6 +89,6 @@ Review your SpecStory history (`.specstory/history/`) and document 3 meaningful 
 
 ## Optional
 
-**Approximate time spent working with AI:** [e.g., 30 minutes, 1 hour]
+**Approximate time spent working with AI:** [30 minutes]
 
 **Number of conversations in SpecStory history:** [Count the exchanges in your history folder]
